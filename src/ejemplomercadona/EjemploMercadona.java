@@ -118,9 +118,12 @@ public static void mediaGraduacionAlcohol(){
 public static void mostrarTodosLosProductos(){
     for (Producto producto : productos) {
         producto.mostrar();
-        System.out.println("");
+        System.out.println("j");
     }
 }
+
+//Cambio para
+
 
 
 
